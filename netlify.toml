@@ -3,7 +3,7 @@
   command = "make prepare && hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.49.2"
+  HUGO_VERSION = "0.51"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
@@ -11,14 +11,14 @@
   command = "hugo --enableGitInfo"
 
 [context.split1.environment]
-  HUGO_VERSION = "0.49.2"
+  HUGO_VERSION = "0.51"
   HUGO_ENV = "production"  
   
 [context.deploy-preview]
   command = "make prepare && hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.49.2"
+  HUGO_VERSION = "0.51"
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
