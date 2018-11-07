@@ -1,28 +1,15 @@
-![Hugo Coder Logotype](https://github.com/luizdepra/hugo-coder/blob/master/images/logos/logotype-a.png)
+Greetings! Welcome to the source code repositiory for my website.
 
-A simple and clean blog theme for [Hugo](https://gohugo.io/).
+The site was built from my University campus in Tokyo as a part of a self-driven project.
 
-![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
+As with most of my hack projects, I  choose something that would be of use to my near-future - as I will soon be job-searching, I decided to make a website to introduce myself.
 
-## Quick Start
+As of the first writing of this file, I have finished setting my DNS for both www and non-www, and for the ME and COM TLDs. Future work will involve 'un-templating' the about page, and setting up more robust sub-pages, (including some debugging to find why a couple of the Japanese pages fail to stay in Japanese).
 
-1. Add the repository into your Hugo Project repository as a submodule, `git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder`.
-2. Configure your `config.toml`. You can either use the [this minimal configuration](https://github.com/luizdepra/hugo-coder/wiki/Configurations#complete-example) as a base, or look for a complete explanation about all configurations [here](https://github.com/luizdepra/hugo-coder/wiki/Configurations). The [`config.toml`](https://github.com/luizdepra/hugo-coder/blob/master/exampleSite/config.toml) inside the [`exampleSite`](https://github.com/luizdepra/hugo-coder/tree/master/exampleSite) is also a good reference.
-3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
+Open-source contributions, as with most things, are welcomed! Please make your own branch and submit requests when you have finished work to add to the site.
 
-## Extra Guides
+As the Hugo site builder and the 'coder' theme used are also public-source, please feel free to clone this git repository for your own use as well!
 
-* [Multilingual Mode](https://github.com/luizdepra/hugo-coder/wiki/Multilingual-Mode)
+(I think the PDF resume folder is actually quite a good idea, for example.)
 
-## License
-
-Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md).
-
-## Maintenance
-
-This theme is maintained by its author [Luiz de Prá](https://github.com/luizdepra) with the help from these awesome [contributors](CONTRIBUTORS.md).
-
-## Special Thanks
-
-- Gleen McComb, for his great [article](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/) about custom pagination.
-- All contributors, for every PR and Issue reported.
+Thanks and happy coding!
