@@ -1,6 +1,6 @@
 baseurl = "https://alexpersonal-dev.netlify.com/"
 title = "Personal Webpage"
-theme = "coder"
+theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
