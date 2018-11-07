@@ -4,9 +4,63 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.49.2"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
+[context.split1]
+  command = "hugo --enableGitInfo"
+
+[context.split1.environment]
+  HUGO_VERSION = "0.49.2"
+  HUGO_ENV = "production"  
+  
 [context.deploy-preview]
   command = "make prepare && hugo --source demo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.49.2"
+
+[context.next.environment]
+  HUGO_ENABLEGITINFO = "true"
+  
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+
+ [[redirects]]
+ from = "http://madicetea.me/*"
+ to = "https://www.madicetea.me/:splat"
+ status = 301
+ force = true
+ 
+[[redirects]]
+ from = "https://madicetea.me/*"
+ to = "https://www.madicetea.me/:splat"
+ status = 301
+ force = true
+
+[[redirects]]
+ from = "http://madicetea.com/*"
+ to = "https://www.madicetea.com/:splat"
+ status = 301
+ force = true
+
+[[redirects]]
+ from = "https://madicetea.com/*"
+ to = "https://www.madicetea.com/:splat"
+ status = 301
+ force = true
+ 
+[[redirects]]
+ from = "http://www.madicetea.com/*"
+ to = "https://www.madicetea.me/:splat"
+ status = 301
+ force = true
+ 
+[[redirects]]
+ from = "https://www.madicetea.com/*"
+ to = "https://www.madicetea.me/:splat"
+ status = 301
+ force = true
