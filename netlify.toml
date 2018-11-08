@@ -16,12 +16,15 @@
   
 [context.deploy-preview]
   command = "make prepare && hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+  publish = "dist"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.51"
+  HUGO_ENV = "development"
 
-[context.next.environment]
+[context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
+  HUGO_VERSION = "0.51"  
   
 [[headers]]
   for = "/*"
@@ -29,38 +32,20 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
 
- [[redirects]]
- from = "http://madicetea.me/*"
- to = "https://www.madicetea.me/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "https://madicetea.me/*"
- to = "https://www.madicetea.me/:splat"
- status = 301
- force = true
-
-[[redirects]]
- from = "http://madicetea.com/*"
- to = "https://www.madicetea.com/:splat"
- status = 301
- force = true
-
 [[redirects]]
  from = "https://madicetea.com/*"
- to = "https://www.madicetea.com/:splat"
+ to = "https://madicetea.me/:splat"
  status = 301
  force = true
- 
-[[redirects]]
- from = "http://www.madicetea.com/*"
- to = "https://www.madicetea.me/:splat"
- status = 301
- force = true
- 
+
 [[redirects]]
  from = "https://www.madicetea.com/*"
- to = "https://www.madicetea.me/:splat"
+ to = "https://madicetea.me/:splat"
+ status = 301
+ force = true
+ 
+[[redirects]]
+ from = "https://madicetea.netlify.com/*"
+ to = "https://madicetea.me/:splat"
  status = 301
  force = true
