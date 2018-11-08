@@ -1,6 +1,6 @@
 +++
 date = ""
-slug = "shitsumon"
+slug = "contact"
 title = "コンタクト"
 
 +++
