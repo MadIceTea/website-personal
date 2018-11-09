@@ -8,7 +8,8 @@ title = "私について"
 
 好物は猫、日本ポップズ音楽団体パフューム、テンサーフロのプロジェクト、シンクパッドパソコン（徳に古いもの）と家族（と時間を過ごすこと）です。
 
-[卒論研究](https://github.com/MadIceTea/LIDA)で忙しくない時は、 大学の[バイト](http://www.gfd.c.u-tokyo.ac.jp/)で働いていたり、IT資格(や大学の授業)の勉強をしています。(普通に週末は朝11時まで寝ている日も多いです!)
+[卒論研究](https://github.com/MadIceTea/LIDA)で忙しくない時は、 大学の[バイト](http://www.gfd.c.u-tokyo.ac.jp/)で働いていたり、IT資格(や大学の授業)の勉強をしています。  
+(普通に週末は朝11時まで寝ている日も多いです!)
 
 自分の時間で次のようなプロジェクトをしています:
 
@@ -23,13 +24,11 @@ title = "私について"
 
 このサイトは[Hugo](http://gohugo.io/)の['コーダ' テーマ](https://themes.gohugo.io/hugo-coder/) により作られています。
 
-Hugoは[Go](http://golang.org/)言語に基づいています。[ディスコード (Discord) の '工学学生' (Engineering Students) サーバー](https://discord.gg/EngineeringStudents) の何人かがこのサイトのデバッグに役立ちました。  
-そちらの全ての人に感謝しています。
+Hugoは[Go](http://golang.org/)言語に基づいています。[ディスコード (Discord) の '工学学生' (Engineering Students) サーバー](https://discord.gg/EngineeringStudents) の何人かがこのサイトのデバッグに役立ちました。そちらの全ての人に感謝しています。
 
 CMSシステムは現在、[フォレストリー](https://app.forestry.io)を使用していますが、将来は[ネットリファイー](https://www.netlifycms.org/)に変える傾向です。
 
 ## 質問・問い合わせ
 
-質問やコメント、アイデアは全部大歓迎です。
-
+質問やコメント、アイデアは全部大歓迎です。  
 [GitHub](https://github.com/madicetea/website-personal/issues/new)や[電子メール](mailto:madicetea@posteo.jp)で連絡が取れます。お待ちしております。
