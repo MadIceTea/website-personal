@@ -14,14 +14,6 @@
   HUGO_VERSION = "0.51"
   HUGO_ENV = "production"  
   
-[context.deploy-preview]
-  command = "make prepare && hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
-  publish = "production"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.51"
-  HUGO_ENV = "development"
-
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
   HUGO_VERSION = "0.51"  
