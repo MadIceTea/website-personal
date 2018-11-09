@@ -81,7 +81,7 @@ pygmentscodefencesguesssyntax = true
 
     [languages.ja]
         languagename = "日本語"
-        title = "私のホームページへようこそ"
+        title = "アレックスのホームページ"
 
         [languages.ja.params]
 			author = "谷口 アレックス"
