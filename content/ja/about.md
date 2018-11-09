@@ -1,11 +1,10 @@
 +++
 date = ""
-draft = true
 slug = "jikoshoukai"
 title = "私について"
 
 +++
-Alex is a 4th year undergraduate researcher studying at the Univeristy of Tokyo, Komaba campus.
+Alex is a 4th year undergraduate researcher studying at the University of Tokyo, Komaba campus.
 
 He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, and family.
 
@@ -24,4 +23,4 @@ Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea)
 
 This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/).
 
-The ['coder' theme](https://themes.gohugo.io/hugo-coder/) was ued to make this website, and various members of the ['Engineering Students' Discord server](https://discord.gg/EngineeringStudents) helped debug some early issues. Many thanks to them all.
+The ['coder' theme](https://themes.gohugo.io/hugo-coder/) was used to make this website, and various members of the ['Engineering Students' Discord server](https://discord.gg/EngineeringStudents) helped debug some early issues. Many thanks to them all.
