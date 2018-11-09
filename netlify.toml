@@ -16,7 +16,7 @@
   
 [context.deploy-preview]
   command = "make prepare && hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
-  publish = "preview"
+  publish = "production"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.51"
