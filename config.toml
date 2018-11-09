@@ -101,7 +101,7 @@ pygmentscodefencesguesssyntax = true
         [[languages.ja.menu.main]]
         name = "私について"
         weight = 1.0
-        url = "/ja/about/"
+        url = "/ja/jikoshoukai/"
 
         [[languages.en.menu.main]]
         name = "ブログ"
@@ -111,4 +111,4 @@ pygmentscodefencesguesssyntax = true
         [[languages.ja.menu.main]]
         name = "連絡"
         weight = 3.0
-        url = "/ja/contact/"
+        url = "/ja/toiawase/"
