@@ -1,6 +1,9 @@
-+++ 
-draft = true
-date = 2018-10-17T00:32:37+09:00
-title = ""
-slug = "" 
 +++
+date = ""
+slug = "contact"
+title = "Contact"
+
++++
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/madicetea/website-personal/issues/new) or [ask me by email](mailto:madicetea@posteo.jp).
+
+Thanks for reading!

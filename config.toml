@@ -1,5 +1,5 @@
 baseurl = "https://madicetea.me"
-title = "Personal Webpage"
+title = "Welcome to Alex's website"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -46,7 +46,7 @@ pygmentscodefencesguesssyntax = true
 [languages]
     [languages.en]
         languagename = "English"
-        title = "Welcome to my page"
+        title = "Alex's Website"
 
         [languages.en.params]
 		author = "Alex W. (T.)"
@@ -54,7 +54,7 @@ pygmentscodefencesguesssyntax = true
 		description = "Alex's personal website"
 		keywords = "personal, resume, webdev, network, opsec, Python, TensorFlow"
 
-		footercontent = "Work in Progress. Copyright MadIcetea. 2018-"
+		footercontent = "Copyright MadIcetea. 2018-"
 
 		hidecredits = true
 		hidecopyright = true
@@ -70,25 +70,25 @@ pygmentscodefencesguesssyntax = true
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Contact Me"
         weight = 2.0
-        url = "/posts/"
-		
-		[[languages.en.menu.main]]
-		name = "Contact Me"
-        weight = 3.0
         url = "/contact/"
+		
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 3.0
+        url = "/posts/"
 
     [languages.ja]
         languagename = "日本語"
-        title = "私のホームページへようこそ"
+        title = "アレックスのホームページ"
 
         [languages.ja.params]
 			author = "谷口 アレックス"
 			info = "大学4年生。 ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, テンサーフロー"
-			footercontent = "誠にすみませんが、現在、ページにバグが多く生じております。 著作権あり、 「MadIceTea」から許可なし無断転載を禁じる。 2018-"
+			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。 2018-。"
 
 			hidecredits = true
 			hidecopyright = true
@@ -98,17 +98,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.menu]
 
-            [[languages.ja.menu.main]]
-            name = "私について"
-            weight = 1.0
-            url = "/ja/about/"
-
-			[[languages.en.menu.main]]
-			name = "Blog"
-			weight = 2.0
-			url = "ja/posts/"
-			
-			[[languages.ja.menu.main]]
-			name = "連絡"
-			weight = 3.0
-			url = "/ja/contact/"
+        [[languages.ja.menu.main]]
+        name = "私について"
+        weight = 1.0
+        url = "/ja/jikoshoukai/"
