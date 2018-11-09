@@ -104,9 +104,9 @@ pygmentscodefencesguesssyntax = true
         url = "/ja/about/"
 
         [[languages.en.menu.main]]
-        name = "Blog"
+        name = "ブログ"
         weight = 2.0
-        url = "ja/posts/"
+        url = "ja/blog/"
         
         [[languages.ja.menu.main]]
         name = "連絡"
