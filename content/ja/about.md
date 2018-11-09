@@ -27,3 +27,9 @@ Hugoは[Go](http://golang.org/)言語に基づいています。[ディスコー
 そちらの全ての人に感謝しています。
 
 CMSシステムは現在、[フォレストリー](https://app.forestry.io)を使用していますが、将来は[ネットリファイー](https://www.netlifycms.org/)に変える傾向です。
+
+## 質問・問い合わせ
+
+質問やコメント、アイデアは全部大歓迎です。
+
+[GitHub](https://github.com/madicetea/website-personal/issues/new)や[電子メール](mailto:madicetea@posteo.jp)で連絡が取れます。お待ちしております。
