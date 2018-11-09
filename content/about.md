@@ -23,3 +23,5 @@ Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea)
 This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/).
 
 The ['coder' theme](https://themes.gohugo.io/hugo-coder/) was used to make this website, and various members of the ['Engineering Students' Discord server](https://discord.gg/EngineeringStudents) helped debug some early issues. Many thanks to them all.
+
+Currently, [Forestry CMS](https://app.forestry.io) is powering this website's page and post creation, but I am looking into switching to [Netlify CMS](https://www.netlifycms.org/) in the near future.
