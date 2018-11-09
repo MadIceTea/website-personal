@@ -81,12 +81,12 @@ pygmentscodefencesguesssyntax = true
 
     [languages.ja]
         languagename = "日本語"
-        title = "アレックスのホームページ"
+        title = "私のホームページへようこそ"
 
         [languages.ja.params]
 			author = "谷口 アレックス"
 			info = "大学4年生。 ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
-			description = "私のホームページへようこそ"
+			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, テンサーフロー"
 			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。 2018-。"
 
