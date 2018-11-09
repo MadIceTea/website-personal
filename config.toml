@@ -74,8 +74,8 @@ pygmentscodefencesguesssyntax = true
         weight = 2.0
         url = "/posts/"
 		
-		[[languages.en.menu.main]]
-		name = "Contact Me"
+        [[languages.en.menu.main]]
+        name = "Contact Me"
         weight = 3.0
         url = "/contact/"
 
@@ -98,17 +98,17 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.menu]
 
-            [[languages.ja.menu.main]]
-            name = "私について"
-            weight = 1.0
-            url = "/ja/about/"
+        [[languages.ja.menu.main]]
+        name = "私について"
+        weight = 1.0
+        url = "/ja/about/"
 
-			[[languages.en.menu.main]]
-			name = "Blog"
-			weight = 2.0
-			url = "ja/posts/"
-			
-			[[languages.ja.menu.main]]
-			name = "連絡"
-			weight = 3.0
-			url = "/ja/contact/"
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2.0
+        url = "ja/posts/"
+        
+        [[languages.ja.menu.main]]
+        name = "連絡"
+        weight = 3.0
+        url = "/ja/contact/"
