@@ -102,11 +102,6 @@ pygmentscodefencesguesssyntax = true
         name = "私について"
         weight = 1.0
         url = "/ja/jikoshoukai/"
-
-        [[languages.en.menu.main]]
-        name = "ブログ"
-        weight = 2.0
-        url = "ja/blog/"
         
         [[languages.ja.menu.main]]
         name = "連絡"
