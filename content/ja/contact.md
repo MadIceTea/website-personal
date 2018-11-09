@@ -1,6 +1,6 @@
 +++
 date = ""
-slug = "contact"
+slug = "toiawase"
 title = "コンタクト"
 
 +++
