@@ -1,6 +1,13 @@
 +++
+<<<<<<< HEAD:content/posts/demo-draft-for-reference.md
 date = "2019-01-11T19:00:00+09:00"
 draft = true
+=======
+date = "2017-01-08"
+title = "Theme Demo"
+description = "The post demonstrates features of the coder theme."
+images = ["/images/N90.jpg"]
+>>>>>>> 12b4246e299206f763da72f044e03f493863f368:exampleSite/content/posts/theme-demo.md
 math = "true"
 title = "Demo (Draft) for Reference"
 
@@ -77,4 +84,12 @@ var foo = function (bar) {
 };
 
 console.log(foo(5));
+<<<<<<< HEAD:content/posts/demo-draft-for-reference.md
 ```
+=======
+```
+
+## Hugo shortcode for figure
+
+{{< figure src="/images/N90.jpg" caption="N90 nebula, \"New stars shed light on the past\" by ESA/Hubble" >}}
+>>>>>>> 12b4246e299206f763da72f044e03f493863f368:exampleSite/content/posts/theme-demo.md
