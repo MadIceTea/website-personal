@@ -1,22 +1,24 @@
 +++
-categories = []
+categories = ["Life"]
 date = "2014-09-28"
 draft = true
 slug = "how-i-keep-busy"
-tags = []
+tags = ["hobbies", " music", "hardware", "food"]
 title = "How I Keep Busy"
 
 +++
 ## How I Keep Busy
 
-This blog post is dedicated to some recent hobbies I have gained.
+This blog post is dedicated to some hobbies I practice.
 
 In short, I like
 
-* a
-* b
-* c
+* playing the clarinet
+* tinkering with hardware
+* listening to music!
+* making food with friends
+* traveling to places
 
-Let's look at **_a_**, first.
+### Playing the Clarinet
 
-### a
+I've been playing the Clarinet for just over 10 years now. I started at the end of primary school
