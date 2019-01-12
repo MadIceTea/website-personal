@@ -32,4 +32,6 @@ After understanding the nature of weights better (a good 40 commits were dedicat
 
 After this, I only needed to update the information on the site to be relevant to me (and not to the example guy from Poland, in the template site) before the site was ready to go live -- except wait, what about the deployment?
 
-That's where I set it up to deploy with netlify. This was already much easier than expected, 
+That's where I set it up to deploy with netlify. This was already much easier than expected, because of the netlify.toml file that was already in the template. However, after reading through the docs, I secured the site against XSS attacks, redirected my domains (as I took out both a .com and .me for this personal site, so that the more common .com will redirect to the .me), and have since also updated the version of Hugo that Netlify compiles the site with. The docs made this rather simple, and even setting up the Lets Encrypt SSL was an automatically provisioned process.
+
+### PEAK Student Council Site
