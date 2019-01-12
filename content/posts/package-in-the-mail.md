@@ -11,8 +11,8 @@ title = "Hacktoberfest 2018 Report"
 
 This Hacktoberfest was my first one, and it was exciting. I had some minor edits for a couple of the repositories I contributed to, but they were always quite willing to accept. I submitted the following:
 
+* various edits that began this site; including adjustments to menu weight, extra button settings, and the beginning of an experimental process to host files directly on this website
 * various edits in content, security hardening, and typos (including one major blocker that affected backend-frontend CMS post publishing) for a PEAK Student Council website
-* various edits that began this site; including adjustments to weight, extra button settings, and the beginning of an experimental process to host files directly on this website
 
 ### Background
 
@@ -29,3 +29,7 @@ So, the first thing I had to do was research what was a popular solution for hos
 The next step was to look for a template to build the site from. I wanted to support showing some of the site in Japanese, so I searched for multilingual templates and found the ['hugo-coder' theme](https://github.com/luizdepra/hugo-coder).
 
 After understanding the nature of weights better (a good 40 commits were dedicated to experimenting until I got the correct values), I decided that I wanted to customise the buttons on my front page -- so I looked up what was powering it. Turns out there is a great symbols project called '[font awesome](https://fontawesome.com/)' which offers at least 4000 symbols - of which I looked through a list of the 500 most common in a design blog to decide the current set I use right now. Of note, I'm particularly proud of the PDF icon, which I linked to the set of resumes that I keep updated in the same 'static' folder as most of the images hosted on this website.
+
+After this, I only needed to update the information on the site to be relevant to me (and not to the example guy from Poland, in the template site) before the site was ready to go live -- except wait, what about the deployment?
+
+That's where I set it up to deploy with netlify. This was already much easier than expected, 
