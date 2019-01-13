@@ -35,3 +35,15 @@ After this, I only needed to update the information on the site to be relevant t
 That's where I set it up to deploy with netlify. This was already much easier than expected, because of the netlify.toml file that was already in the template. However, after reading through the docs, I secured the site against XSS attacks, redirected my domains (as I took out both a .com and .me for this personal site, so that the more common .com will redirect to the .me), and have since also updated the version of Hugo that Netlify compiles the site with. The docs made this rather simple, and even setting up the Lets Encrypt SSL was an automatically provisioned process.
 
 ### PEAK Student Council Site
+
+This site was created with a template called [Victor Hugo](https://github.com/netlify-templates/victor-hugo), which gives an example of a coffee-shop site with a backend CMS system for making posts. Choosing to do this in Hugo was a hard decision. I had to make sure that there would be someone who had the technical ability to code such a site and to accept other students' feedback as the site is, after all, open source.
+
+One of the first changes that was made for all members working on the site (including myself) was to switch from using GitHub Desktop and two separate repositories for development work on the site and the live site, we would instead have two separate branch channels 'master' and 'development' for the site. This was later changed on my own personal site. This caused a major typo, because as I had read in the Netlify CMS docs, the CMS has a configuration YAML file (config.yml) which controls where the posts, images, and what channel things are published to. Unfortunately, the master branch was set to publish to 'development' as this was copied over from the development site.
+
+Once this was fixed, it has since been a process of editing out content that was on the webpages in favor of new pages and blog post articles written in the CMS. When the site is fully built in the future, the goal will be to just log in occasionally and make an occasional new blog post -- so not much trouble is anticipated for the future.
+
+In writing all these site features, it did not take long for me to reach five pull requests worth of commits. Neither was this a problem for many other people who participated in the hackathon. According to the Hacktoberfest site, over the month of October 2018 - another 46k people also accomplished this, across 105k repositories.
+
+### A Package Arrives
+
+Yesterday in the mail, a mysterious blue package arrived. Of course, the wrapping gave away the likely contents. Quite exciting!
