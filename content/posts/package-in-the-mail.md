@@ -8,7 +8,7 @@ title = "Hacktoberfest 2018 Report"
 +++
 ## Hacktoberfest 2018 Report
 
-This Hacktoberfest was my first one, and it was exciting. I had some minor edits for a couple of the repositories I contributed to, but they were always quite willing to accept. I submitted the following:
+This Hacktoberfest was my first one, and it was exciting. Most of my activities for this hackathon focused around the following projects:
 
 * various edits that began this site; including adjustments to menu weight, extra button settings, and the beginning of an experimental process to host files directly on this website
 * various edits in content, security hardening, and typos (including one major blocker that affected backend-frontend CMS post publishing) for a PEAK Student Council website
