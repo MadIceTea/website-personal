@@ -47,3 +47,9 @@ In writing all these site features, it did not take long for me to reach five pu
 ### A Package Arrives
 
 Yesterday in the mail, a mysterious blue package arrived. Of course, the wrapping gave away the likely contents. Quite exciting!
+
+![](/images/Hacktober5Shirt_1.jpg)![](/images/Hacktober5Shirt_2.jpg)
+
+Looking forward to next year, but in the meanwhile will definitely enjoy wearing this shirt once it is a bit warmer here in Tokyo and the stickers will be joining my sticker collection!
+
+![](/images/Hacktober5Shirt_3.jpg)
