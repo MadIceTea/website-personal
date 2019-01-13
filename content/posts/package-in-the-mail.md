@@ -1,7 +1,6 @@
 +++
 categories = ["programming"]
 date = "2019-01-12T22:00:00+00:00"
-draft = true
 slug = "hacktoberfest-2018"
 tags = ["hobbies", "software", "hackathon", "website"]
 title = "Hacktoberfest 2018 Report"
