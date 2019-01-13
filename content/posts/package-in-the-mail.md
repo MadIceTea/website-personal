@@ -49,6 +49,6 @@ Yesterday in the mail, a mysterious blue package arrived. Of course, the wrappin
 
 ![](/images/Hacktober5Shirt_1.jpg)![](/images/Hacktober5Shirt_2.jpg)
 
-Looking forward to next year, but in the meanwhile will definitely enjoy wearing this shirt once it is a bit warmer here in Tokyo and the stickers will be joining my sticker collection!
+Danke, Deutche Poste. Looking forward to next year, but in the meanwhile will definitely enjoy wearing this shirt once it is a bit warmer here in Tokyo and the stickers will be joining my sticker collection!
 
 ![](/images/Hacktober5Shirt_3.jpg)
