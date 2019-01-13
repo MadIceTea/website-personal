@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: <% GITHUB_REPOSITORY %> # Gulp will replace this with your GitHub repository
-  branch: development
+  branch: master
   publish_mode: editorial_workflow
   
 media_folder: "site/static/images" # Folder where user uploaded files should go
