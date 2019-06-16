@@ -14,6 +14,8 @@ This blog post is dedicated to some hobbies I practice.
 In short, I like
 
 * playing the clarinet
+
+  // add video of Alex playing Clarinet
 * tinkering with hardware
 * listening to music!
 * making food with friends
