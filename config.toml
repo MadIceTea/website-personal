@@ -35,7 +35,7 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "far fa-file-pdf fa-2x"
     weight = 4
-	url = "https://alexpersonal-dev.netlify.com/resume/Wiegman_Alexander-Resume_2018.11_Letter.pdf"
+	url = "https://alexpersonal-dev.netlify.com/resume/Wiegman_2019.08_Resume.pdf"
 [[params.social]]
     name = "Location"
     icon = "fas fa-map-marker-alt fa-2x"
