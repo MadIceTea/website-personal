@@ -30,7 +30,7 @@ pygmentscodefencesguesssyntax = true
     name = "Email"
     icon = "fas fa-envelope-open fa-2x"
     weight = 3
-    url = "mailto:madicetea@posteo.jp"
+    url = "mailto:hello@madicetea.me"
 [[params.social]]
     name = "Resume"
     icon = "far fa-file-pdf fa-2x"
@@ -40,7 +40,7 @@ pygmentscodefencesguesssyntax = true
     name = "Location"
     icon = "fas fa-map-marker-alt fa-2x"
     weight = 5
-	url = "https://www.google.com/maps/place/東京大学駒場キャンパス/@35.6599007,139.6824167,17z"	
+	url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
 	
 	
 [languages]
@@ -50,7 +50,8 @@ pygmentscodefencesguesssyntax = true
 
         [languages.en.params]
 		author = "Alex W. (T.)"
-		info = "4th year University Student. My passions are Web Development, Software Engineering, and Cybersecurity."
+		info = "Recent graduate of the University of Tokyo. My passions are Web 
+Development, Software Engineering, and Cybersecurity."
 		description = "Alex's personal website"
 		keywords = "personal, resume, webdev, network, opsec, Python, TensorFlow"
 
@@ -85,7 +86,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.params]
 			author = "谷口 アレックス"
-			info = "大学4年生。 ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
+			info = "最近東京大学から卒業しました。ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, テンサーフロー"
 			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。 2018-。"
