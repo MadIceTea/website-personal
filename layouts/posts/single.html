@@ -18,11 +18,11 @@
             </span>
             <span class="reading-time">
               <i class="fas fa-clock"></i>
-              {{ i18n "reading_time" .ReadingTime }}
+              {{ i18n "readingTime" .ReadingTime }}
             </span>
           </div>
-          {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-          {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+          {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories" . }}{{ end }}
+          {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags" . }}{{ end }}
         </div>
       </header>
 
@@ -31,13 +31,10 @@
       </div>
 
       <footer>
-        {{ partial "posts/series.html" . }}
-        {{ partial "posts/disqus.html" . }}
-        {{ partial "posts/commento.html" . }}
-        {{ partial "posts/utteranc.html" . }}
+        {{ partial "posts/disqus" . }}
       </footer>
     </article>
 
-    {{ partial "posts/math.html" . }}
+    {{ partial "posts/math" . }}
   </section>
 {{ end }}

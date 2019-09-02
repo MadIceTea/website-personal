@@ -6,6 +6,4 @@ description = ""
 slug = "" 
 tags = []
 categories = []
-externalLink = ""
-series = []
 +++

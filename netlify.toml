@@ -3,7 +3,7 @@
   command = "make prepare && hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.53"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
@@ -11,12 +11,12 @@
   command = "hugo --enableGitInfo"
 
 [context.split1.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.53"
   HUGO_ENV = "production"  
   
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.54.0"  
+  HUGO_VERSION = "0.53"  
   
 [[headers]]
   for = "/*"
@@ -41,6 +41,3 @@
  to = "https://madicetea.me/:splat"
  status = 301
  force = true
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.54.0"
