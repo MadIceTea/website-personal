@@ -18,20 +18,8 @@
     X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
- from = "https://madicetea.com/*"
- to = "https://madicetea.me/:splat"
- status = 301
- force = true
-
-[[redirects]]
- from = "https://www.madicetea.com/*"
- to = "https://madicetea.me/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "https://madicetea.netlify.com/*"
- to = "https://madicetea.me/:splat"
+ from = "http://alexpersonal-dev.netlify.com/*"
+ to = "https://alexpersonal-dev.netlify.com/:splat"
  status = 301
  force = true
 
