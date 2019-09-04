@@ -22,7 +22,7 @@ His previous projects include:
 * [Thesis research: Using Machine Learning to Predict Risk of Wildfire Damage](https://github.com/MadIceTea/FUWRM)
 * [Land Image-Data Assessment: Tracking urban density via satellite imagery](https://github.com/madicetea/LIDA)
 * An unreleased SUICA/PASMO (stored-value mass-transit card) Android Application
-* [Website and Blog for the PEAK Student Council](https://github.com/peakstudentcoucil/website-prod)
+* [Website and Blog for the PEAK Student Council](https://github.com/PEAKStudentCouncil/website-prod)
 * [Website for the Global Faculty Development Group](http://www.gfd.c.u-tokyo.ac.jp/)
 
 Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea), connect on [Reddit](https://reddit.com/u/madicetea), and contribute on [GitHub](https://github.com/madicetea).
