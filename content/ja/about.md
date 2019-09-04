@@ -26,7 +26,7 @@ title = "私について"
 * [大学のPEAK生徒会を紹介するウェブサイト](https://github.com/PEAKStudentCouncil/website-prod)
 * [大学の「Global Faculty Development」ウェブサイト](http://www.gfd.c.u-tokyo.ac.jp/)
 
-[リンクドイン](https://linkedin.com/in/madicetea)で学・職歴の確認ができて、[レジット](https://reddit.com/u/madicetea)でミクロブログや最近興味になっているものが見えて、 [ギットハブ](https://github.com/madicetea)で (このサイトも含める) 書いているプログラムを拝見できます。
+[リンクドイン](https://linkedin.com/in/mrlogicalalex)で学・職歴の確認ができて、[レジット](https://reddit.com/u/madicetea)でミクロブログや最近興味になっているものが見えて、 [ギットハブ](https://github.com/madicetea)で (このサイトも含める) 書いているプログラムを拝見できます。
 
 ## このサイトの成り立ち
 
