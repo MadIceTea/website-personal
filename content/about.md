@@ -3,7 +3,7 @@ slug = "about"
 title = "About Alex"
 
 +++
-Alex is a recent graduate of the University of Tokyo, taking his bachelor's degree in Environmental Science, and minors in Informatics (Computer Science) and Science & Technology Studies.
+Alex is a recent graduate of the University of Tokyo, taking his bachelor's degree in the field of Interdisciplinary Sciences.
 
 He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, and family.
 
