@@ -20,7 +20,7 @@ title = "私について"
 
 過去にしていた物の中でもこんな物もあります：
 
-* [卒論: 教師あり学習使用 衛星画像の分類解析で火災による都市への破壊リスク](https://github.com/madicetea/LIDA)
+* [卒論: 教師あり学習使用 衛星画像の分類解析で火災による都市への破壊リスク](https://github.com/MadIceTea/FUWRM)
 * [教師あり学習使用 衛星画像の分類解析で都市の密度を地図で表す](https://github.com/madicetea/LIDA)
 * SUICA や PASMO カードを読む アンドロイドアプリ (非公開)
 * [大学のPEAK生徒会を紹介するウェブサイト](https://github.com/peakstudentcoucil/website-prod)
