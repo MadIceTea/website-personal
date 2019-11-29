@@ -11,19 +11,21 @@ It is separate (if often equal or ahead) of my primary website. Of note:
 
 (b1) Domain renewals were not cheap this year. Your donation would certainly be appreciated.
 
-The site was originally built from my University campus in Tokyo as a part of a self-driven project.
+Greetings! Welcome to the source code repositiory for my website:
+https://madicetea.me
 
-As with most of my hack projects, I  choose something that would be of use to my near-future - as I was starting the process of job-searching, I decided to make a website to introduce myself.
+The site was built from my University campus in Tokyo as a part of a self-driven project.
 
-As of the first writing of this file, I have finished setting my DNS for both www and non-www, and for the ME and COM TLDs. Future work will involve 'un-templating' the about page, and setting up more robust sub-pages, (including some debugging to find why a couple of the Japanese pages fail to stay in Japanese).
+As with most of my hack projects, I choose something that would be of use to my near-future - as I would had soon started my job-searching, I decided to make a website to introduce myself. It currently serves as a contact point and a personal homepage.
 
-The above debugging was done and future edits of this site will clean up the forestry integration for easy CMS blog writing. Of course, this means that more time will soon be devoted to a variety of different sort of blog content.
+As of the first writing of this file, I have finished setting my DNS for both www and non-www, and for the ME and COM TLDs. (DONE)
+In the second writing, the webpage had undergone some changes in the backend to implement Forestry CMS blog integration (after a failed attempt at Netlify's native CMS). Other changes included hardening the website headers and integrating some custom version upgrades to third-party libraries to resolve GitHub ack'd CVE security notifications.
+The third writing of this file will probably show implementation of planned changes to allow for further JavaScript activities and new feature releases.
 
-I also added some of my own ideas to the site template.
-(For example, I think the PDF resume folder is actually quite a good idea, as it help organise and host files directly onto the website.)
+Open-source contributions, as with most things, are welcomed! Please make your own branch and submit requests when you have finished work to add to the site. (Partial work is accepted, so long as it won't break things. Full integrations or features are much appreciated!)
 
-Open-source contributions, as with most things, are welcomed! Please make your own branch and submit requests when you have finished work to add to the site. If the demand arises (or more translations that are non-Japanese are added to the original HUGO 'coder' template repo then I will contribute a barebones template site version of this site as well. Feel free to reach out to me to ask for this.
+As the Hugo site builder and the 'coder' theme used are also openly licensed, please feel free to clone this git repository for your own use as well!
 
-As the Hugo site builder and the 'coder' theme used are also public-source, please feel free to clone this git repository for your own use as well!
+(I think the PDF resume folder is actually quite a good idea, for example.)
 
 Thanks and happy coding!
