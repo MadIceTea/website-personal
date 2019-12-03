@@ -11,9 +11,7 @@ title = "Super Commuting: A Story of Two Trains"
 
 How long does your commute to work take?
 
-A super commuter will (by definition of the US Census)
-
- like
+A super commuter will (by definition of the US Census) spend over 90 minutes in each direction to get to and from their place of work and their place of residence.
 
 * playing the clarinet
 * tinkering with hardware
