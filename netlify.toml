@@ -3,13 +3,13 @@
   command = "make prepare && hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.60.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.54.0"  
+  HUGO_VERSION = "0.60.0"  
   
 [[headers]]
   for = "/*"
@@ -24,4 +24,4 @@
  force = true
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.60.0"
