@@ -21,6 +21,6 @@ Many people commute to their workplace, instead of moving to be very close. Thei
 * better economic opportunity / a limited job market in their own region of residence
 * already being used to a lifestyle that requires moving around between regions on a regular basis
 
-### Playing the Clarinet
+### So what about the author?
 
-I've been playing the Clarinet for just over 10 years now. I started at the end of primary school
+The author's reasons are not that different than the reasons listed above. 
