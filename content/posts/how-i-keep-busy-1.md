@@ -19,7 +19,7 @@ Many people commute to their workplace, instead of moving to be very close. Thei
 * not interfering with their family's way of life (spouse's work, children's school)
 * the high cost of living in the area of work, compared to their region of residence
 * better economic opportunity / a limited job market in their own region of residence
-* 
+* already being used to a lifestyle that requires moving around between regions on a regular basis
 
 ### Playing the Clarinet
 
