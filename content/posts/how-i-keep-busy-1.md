@@ -13,6 +13,8 @@ How long does your commute to work take?
 
 A super commuter will (by definition of the US Census) spend over 90 minutes in each direction to get to and from their place of work and their place of residence.
 
+Many people commute to their workplace, instead of moving to be very close.
+
 * playing the clarinet
 * tinkering with hardware
 * listening to music!
