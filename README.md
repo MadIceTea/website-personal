@@ -11,10 +11,6 @@ It is separate (if often equal or ahead) of my primary website. Of note:
 
 (b1) Domain renewals were not cheap this year. Your donation would certainly be appreciated.
 
-Greetings! Welcome to the source code repositiory for my website:
-
-https://madicetea.me
-
 The site was built from my University campus in Tokyo as a part of a self-driven project.
 
 As with most of my hack projects, I choose something that would be of use to my near-future - as I would had soon started my job-searching, I decided to make a website to introduce myself. It currently serves as a contact point and a personal homepage.
@@ -28,9 +24,5 @@ The third writing of this file will probably show implementation of planned chan
 Open-source contributions, as with most things, are welcomed! Please make your own branch and submit requests when you have finished work to add to the site. (Partial work is accepted, so long as it won't break things. Full integrations or features are much appreciated!)
 
 As the Hugo site builder and the 'coder' theme used are also openly licensed, please feel free to clone this git repository for your own use as well!
-
-(I think the PDF resume folder is actually quite a good idea, for example.)
-
-Thanks and happy coding!  
 
 Post-script. The author recognizes that recent changes make all headless CMS integartions (including Forestry, NetlifyCMS, DatoCMS or Contentful) compatible with this theme in a Netlify site.
