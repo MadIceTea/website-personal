@@ -9,7 +9,7 @@ title = "Where I Work #1: Pipeline Security"
 +++
 ## PIPELINE SECURITY
 
-This blog post is to discuss some of the things that I did while I was employed with PIPELINE SECURITY (aka パイプラインセキュリティ).
+This blg post is to discuss some of the things that I did while I was employed with PIPELINE SECURITY (aka パイプラインセキュリティ).
 
 In short, I was responsible for
 
