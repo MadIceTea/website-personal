@@ -3,13 +3,13 @@
   command = "make prepare && hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.60.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.54.0"  
+  HUGO_VERSION = "0.60.0"  
   
 [[headers]]
   for = "/*"
@@ -18,22 +18,10 @@
     X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
- from = "https://madicetea.com/*"
- to = "https://madicetea.me/:splat"
- status = 301
- force = true
-
-[[redirects]]
- from = "https://www.madicetea.com/*"
- to = "https://madicetea.me/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "https://madicetea.netlify.com/*"
- to = "https://madicetea.me/:splat"
+ from = "http://alexpersonal-dev.netlify.com/*"
+ to = "https://alexpersonal-dev.netlify.com/:splat"
  status = 301
  force = true
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.60.0"
