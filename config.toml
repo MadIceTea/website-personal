@@ -1,4 +1,4 @@
-baseurl = "https://alexpersonal-dev.netlify.com"
+baseurl = "https://madicetea.me"
 title = "Welcome to Alex's website"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -35,12 +35,12 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "far fa-file-pdf fa-2x"
     weight = 4
-	url = "https://alexpersonal-dev.netlify.com/resume/WIEGMAN_Alexander_Resume.pdf"
+    url = "https://madicetea.me/resume/WIEGMAN_Alexander_Resume.pdf"
 [[params.social]]
     name = "Location"
     icon = "fas fa-map-marker-alt fa-2x"
     weight = 5
-	url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
+    url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
 	
 	
 [languages]
