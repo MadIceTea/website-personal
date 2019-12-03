@@ -1,24 +1,25 @@
 +++
-categories = ["Life"]
-date = "2014-09-28"
+categories = ["work"]
+date = 2019-08-09T21:30:00Z
 draft = true
-slug = "how-i-keep-busy"
-tags = ["hobbies", " music", "hardware", "food"]
-title = "Where I Work"
+slug = "wiw1-pipeline"
+tags = ["Pipeline Security", "Cybersecurity", "Analyst", "DNS", "JANOG44", "hardware", "devops", "SSH"]
+title = "Where I Work #1: Pipeline Security"
 
 +++
-## How I Keep Busy
+## PIPELINE SECURITY
 
-This blog post is dedicated to some hobbies I practice.
+This blog post is to discuss some of the things that I did while I was employed with PIPELINE SECURITY (aka パイプラインセキュリティ).
 
-In short, I like
+In short, I was responsible for
 
-* playing the clarinet
-* tinkering with hardware
-* listening to music!
-* making food with friends
-* traveling to places
+* making an internal DNS server by spinning up new machines in Vultr
+* Documentation, Documentation, Documentation
+* investigating a listing in our own email blacklist!
+* giving a high-level pitch to potential customers at the JANOG44 trade show
+* A bit of hardware provisioning magic
+* ELK (Elasticsearch, Logstash, and Kibana) spinup & hosting
 
-### Playing the Clarinet
+### Internal DNS Server
 
-I've been playing the Clarinet for just over 10 years now. I started at the end of primary school
+Have you ever wondered how your computer knows where to route requests when you type in "github.com" or perhaps "showmeame.me"? Inside the framework of the Internet is an automated phonebook called Domain Name System (DNS).
