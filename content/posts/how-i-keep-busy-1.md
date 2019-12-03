@@ -1,17 +1,19 @@
 +++
 categories = ["Life"]
-date = 2019-02-08T17:45:00Z
+date = 2019-12-05T15:15:00Z
 draft = true
-slug = "how-i-keep-busy"
-tags = ["hobbies", " music", "hardware", "food"]
+slug = "super-commuting-2019"
+tags = ["commuting", "trains", "bus", "super commuter", "ACE", "CalTrain", "Central Valley", "Silicon Valley", "California"]
 title = "Super Commuting: A Story of Two Trains"
 
 +++
-## How I Keep Busy
+## Super Commuting
 
-This blog post is dedicated to some hobbies I practice.
+How long does your commute to work take?
 
-In short, I like
+A super commuter will (by definition of the US Census)
+
+ like
 
 * playing the clarinet
 * tinkering with hardware
