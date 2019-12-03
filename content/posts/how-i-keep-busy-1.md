@@ -17,9 +17,9 @@ Many people commute to their workplace, instead of moving to be very close. Thei
 
 * staying near their family
 * not interfering with their family's way of life (spouse's work, children's school)
+* the high cost of living in the area of work, compared to their region of residence
 * 
-* making food with friends
-* traveling to places
+* 
 
 ### Playing the Clarinet
 
