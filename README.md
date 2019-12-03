@@ -26,4 +26,6 @@ Open-source contributions, as with most things, are welcomed! Please make your o
 
 As the Hugo site builder and the 'coder' theme used are also public-source, please feel free to clone this git repository for your own use as well!
 
-Thanks and happy coding!
+Thanks and happy coding!  
+
+Post-script. The author recognizes that recent changes make all headless CMS integartions (including Forestry, NetlifyCMS, DatoCMS or Contentful) compatible with this theme in a Netlify site.
