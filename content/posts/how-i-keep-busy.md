@@ -1,6 +1,6 @@
 +++
 categories = ["Life"]
-date = "2014-09-28"
+date = 2019-02-08T17:45:00Z
 draft = true
 slug = "how-i-keep-busy"
 tags = ["hobbies", " music", "hardware", "food"]
