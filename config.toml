@@ -1,4 +1,4 @@
-baseurl = "https://madicetea.me"
+baseurl = "https://alexpersonal-dev.netlify.com"
 title = "Welcome to Alex's website"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -35,7 +35,7 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "far fa-file-pdf fa-2x"
     weight = 4
-    url = "https://madicetea.me/resume/WIEGMAN_Alexander_Resume.pdf"
+    url = "https://alexpersonal-dev.netlify.com/resume/WIEGMAN_Alexander_Resume.pdf"
 [[params.social]]
     name = "Location"
     icon = "fas fa-map-marker-alt fa-2x"
