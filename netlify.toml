@@ -3,19 +3,20 @@
   command = "make prepare && hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.60.0"
+  HUGO_VERSION = "0.88.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.60.0"  
+  HUGO_VERSION = "0.88.1"  
   
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
+    Access-Control-Allow-Origin: "*"
 
 [[redirects]]
  from = "http://alexpersonal-dev.netlify.com/*"
@@ -24,4 +25,4 @@
  force = true
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.60.0"
+  HUGO_VERSION = "0.88.1"
