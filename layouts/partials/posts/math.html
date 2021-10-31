@@ -1,7 +1,7 @@
 {{- if or (.Params.math) (.Site.Params.math) -}}
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js" id="MathJax-script"></script>
+  {{/* The file is already minified */}}
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <script>
     MathJax = {
       tex: {
@@ -18,9 +18,13 @@
   </script>
 {{- end -}}
 {{- if or (.Params.katex) (.Site.Params.katex) -}}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css" integrity="sha384-dbVIfZGuN1Yq7/1Ocstc1lUEm+AT+/rCkibIcC/OmWo5f0EA48Vf8CytHzGrSwbQ" crossorigin="anonymous">
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js" integrity="sha384-2BKqo+exmr9su6dir+qCw08N2ZKRucY4PrGQPPWU1A7FtlCGjmEGFqXCv5nyM5Ij" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css"
+    integrity="sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc" crossorigin="anonymous">
+  {{/* The loading of KaTeX is deferred to speed up page rendering */}}
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js"
+    integrity="sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js"
+    integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"
     onload="renderMathInElement(document.body,
       {
         delimiters: [
@@ -30,6 +34,5 @@
           {left: '\\[', right: '\\]', display: true}
         ]
       }
-    );">
-  </script>
+    );"></script>
 {{- end -}}
