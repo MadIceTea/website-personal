@@ -16,7 +16,7 @@
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Access-Control-Allow-Origin: "*"
+    Access-Control-Allow-Origin = "*"
 
 [[redirects]]
  from = "http://alexpersonal-dev.netlify.com/*"
