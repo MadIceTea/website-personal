@@ -11,8 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 	
 [params]
-	dateFormat = "1 November, 2021"
-    colorScheme = "dark"
+	colorScheme = "dark"
     hideColorSchemeToggle = false
     avatarurl = "images/avatar.jpg"	
 	favicon_32 = "images/favicon-32x32.png"
