@@ -14,35 +14,37 @@ pygmentscodefencesguesssyntax = true
 	avatarurl = "images/avatar.jpg"	
 	favicon_32 = "images/favicon-32x32.png"
 	favicon_16 = "images/favicon-16x16.png"
-	
+    dateFormat = "1 November, 2021"
+    colorScheme = "dark"
+    hideColorSchemeToggle = false
+
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/madicetea/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 2
     url = "https://www.linkedin.com/in/mrlogicalalex/"
 [[params.social]]
     name = "Email"
-    icon = "fas fa-envelope-open fa-2x"
+    icon = "fa fa-envelope-open fa-2x"
     weight = 3
     url = "mailto:hello@madicetea.me"
 [[params.social]]
     name = "Resume"
-    icon = "far fa-file-pdf fa-2x"
+    icon = "fa fa-file-pdf fa-2x"
     weight = 4
     url = "https://alexpersonal-dev.netlify.com/resume/Wiegman_Alexander_2021.11_Resume.pdf"
 [[params.social]]
     name = "Location"
-    icon = "fas fa-map-marker-alt fa-2x"
+    icon = "fa fa-map-marker-alt fa-2x"
     weight = 5
     url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
-	
-	
+
 [languages]
     [languages.en]
         languagename = "English"
