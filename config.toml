@@ -35,7 +35,7 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "far fa-file-pdf fa-2x"
     weight = 4
-    url = "https://alexpersonal-dev.netlify.com/resume/WIEGMAN_Alexander_Resume.pdf"
+    url = "https://alexpersonal-dev.netlify.com/resume/Wiegman_Alexander_2021.11_Resume.pdf"
 [[params.social]]
     name = "Location"
     icon = "fas fa-map-marker-alt fa-2x"
@@ -52,7 +52,7 @@ pygmentscodefencesguesssyntax = true
 		author = "Alex W. (T.)"
 		info = "Cybersecurity Analyst with curiosity in Networks, Web, and Software"
 		description = "Alex's personal website"
-		keywords = "personal, resume, webdev, network, opsec, deveops, neural networks, Python, TensorFlow"
+		keywords = "personal, resume, webdev, network, opsec, deveops, neural networks, programming, architecture"
 
 		footercontent = "Copyright MadIcetea. 2018-"
 
