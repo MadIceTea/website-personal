@@ -4,27 +4,34 @@ slug = "jikoshoukai"
 title = "私について"
 
 +++
-はじめまして。私はアレックスと申します。この前、東京大学の学祭科学科 (教養学部)を卒業しました。
+はじめまして。私はアレックスと申します。
+「Kong」と言うアメリカの会社でコンプライアンスとサイバーセキュリティ系の開発仕事に勤めています。
 
-好物は猫、日本ポップズ音楽団体パフューム、テンサーフロのプロジェクト、シンクパッドパソコン（徳に古いもの）と家族（と時間を過ごすこと）です。
+私の趣味は猫、（日本ポップズ音楽の）パフューム、テンサーフロのプロジェクト、シンクパッドパソコン（特に古いもの）、色んな文化の音楽をSpotifyで聞く、と家族と時間を過ごすことです。
 
-新卒採用や下記のプロジェクトで忙しくない時は、 IT資格*の勉強をしています。(寝るのも大好き。普通に週末は朝11時まで寝ている日も多いです!)
+仕事のタスクや下記のプロジェクトで忙しくない時は、 IT資格の勉強をしています。
+(寝るのも大好き。普通に週末は朝10時まで寝ている日も多いです!)
 
-＊現在、CompTIAのネットワーク+ と セキュリティ+試験に力を入れています。
+最近はAWSのシステムアドミニストレータ系の試験の勉強に育んでいます。
 
-自分の時間で次のようなプロジェクトをしています:
+暇な時間で次のようなプロジェクトもしています:
 
-* [レジットで中古シンクパッド販売を管理するボット](https://github.com/madicetea/thinkpadsforsalebot)
+* （パソコンがバグって、開発は一旦停止中）[VirtualBoxソフトでマックのVMを自動作成する「bash」スクリプト](https://github.com/MadIceTea/macos-virtualbox)で最近のmacOSサポートと自動的にスクリプトの必要なソフトをhomebrewでインストールする機能の追加中。
+* [電子メールの受信をモニターするサーバー](https://github.com/MadIceTea/imap-mail-checker-server)と[電子メールの受信を通知するブラウザ拡張機能](https://github.com/MadIceTea/imap-mail-checker-cx)でどのIMAPの電子メールサービスをしようでも新たなメッセージが入った時に通知される。
 * 近日: "本当の「AIテレビCM」" \[深層ネットワーク「Inception 第3班」使用\]
-* [オンライン授業「Coursera」でのサイバーセキュリティコース](https://www.coursera.org/specializations/cyber-security)の宿題
 
 過去にしていた物の中でもこんな物もあります：
 
 * [卒論: 教師あり学習使用 衛星画像の分類解析で火災による都市への破壊リスク](https://github.com/MadIceTea/FUWRM)
 * [教師あり学習使用 衛星画像の分類解析で都市の密度を地図で表す](https://github.com/madicetea/LIDA)
 * SUICA や PASMO カードを読む アンドロイドアプリ (非公開)
+* [オンライン授業「Coursera」でのサイバーセキュリティコース](https://www.coursera.org/specializations/cyber-security)の宿題
 * [大学のPEAK生徒会を紹介するウェブサイト](https://github.com/PEAKStudentCouncil/website-prod)
 * [大学の「Global Faculty Development」ウェブサイト](http://www.gfd.c.u-tokyo.ac.jp/)
+
+その他以下のプロジェクトに参加してもらっています：
+* [QRMアマチュア無線](https://github.com/MadIceTea/qrm2)に日本とオランダの波数割り当て図を共有
+* [ミニBot](https://github.com/0x5c/minibot/pull/22)で「ニャー」（の冗談）コマンドを作成中です。
 
 [リンクドイン](https://linkedin.com/in/mrlogicalalex)で学・職歴の確認ができて、[レジット](https://reddit.com/u/madicetea)でミクロブログや最近興味になっているものが見えて、 [ギットハブ](https://github.com/madicetea)で (このサイトも含める) 書いているプログラムを拝見できます。
 
