@@ -36,12 +36,12 @@ pygmentscodefencesguesssyntax = true
     url = "mailto:hello@madicetea.me"
 [[params.social]]
     name = "Resume"
-    icon = "far fa-file-pdf fa-2x"
+    icon = "fa fa-file-pdf-o fa-2x"
     weight = 4
     url = "https://alexpersonal-dev.netlify.com/resume/Wiegman_Alexander_2021.11_Resume.pdf"
 [[params.social]]
     name = "Location"
-    icon = "fas fa-map-marker-alt fa-2x"
+    icon = "fa fa-map-marker fa-2x"
     weight = 5
     url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
 
@@ -52,7 +52,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.en.params]
 		author = "Alex W. (T.)"
-		info = "Analyst and Security Engineer with interests in Systems, Networks, Web, and Software"
+		info = "Analyst and Security Engineer for Systems, Networks, Web, and Software"
 		description = "Alex's personal website"
 		keywords = "personal, resume, webdev, network, opsec, deveops, neural networks, programming, architecture"
 
@@ -87,7 +87,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.params]
 			author = "谷口 アレックス"
-			info = "総務課でコンプライアンスとサイバーセキュリティ開発者の仕事についています。"
+			info = "総務課でコンプライアンスとサイバーセキュリティ開発の仕事についてます。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
 			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。 2018-。"
