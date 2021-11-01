@@ -11,12 +11,12 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 	
 [params]
-	avatarurl = "images/avatar.jpg"	
-	favicon_32 = "images/favicon-32x32.png"
-	favicon_16 = "images/favicon-16x16.png"
-    dateFormat = "1 November, 2021"
+	dateFormat = "1 November, 2021"
     colorScheme = "dark"
     hideColorSchemeToggle = false
+    avatarurl = "images/avatar.jpg"	
+	favicon_32 = "images/favicon-32x32.png"
+	favicon_16 = "images/favicon-16x16.png"
 
 # Social links
 [[params.social]]
