@@ -3,19 +3,18 @@ slug = "about"
 title = "About Alex"
 
 +++
-Alex is a governance, risk, and compliance analyst at Kong, and an experienced cyber security analyst growing into security engineering and architecture for on-prem and cloud systems.
+Alex is currently in between positions, and is looking for security engineering or solutions architecture positions for on-prem and cloud systems. He has previous experiences with data analyst and technical compliance roles, both of which have contributed to a wider understanding of the information security world.
 
 He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, almost any music, and family.
 
-If he's not working on his day job or tinkering with one of his current projects (below), he often can be found studying for IT Certifications. (Or, simply resting!)
+If he's not working on his day job or tinkering with one of his current projects (below), he often can be found reading law or studying for IT Certifications. (Or, simply resting!)
 
-Currently, efforts are being focused on AWS Systems Administrator-type exams.
+Currently, efforts are being focused on the CISSP (it's finally time!), renewing his Azure System Administrator license, and the AWS Systems Administrator license exams.
 
-He works on a variety of projects including:
+He also has a few projects which he holds an interest in (although progress is very slow):
 
-* (On hold for hardware issues:) [Scripted setup of MacOS Guest Installs on Virtualbox](https://github.com/MadIceTea/macos-virtualbox), written in bash and supporting homebrew dependency auto-installs / recent macOS versions.
-* A [mail server backend](https://github.com/MadIceTea/imap-mail-checker-server) and a [mail extension frontend](https://github.com/MadIceTea/imap-mail-checker-cx) for checking any IMAP connected inbox's new messages and notifying upon their arrival
-* Coming Soon: "What's a Real "AI" Television Commercial?" via the _Inception v3_ Dataset
+* A [mail server backend](https://github.com/MadIceTea/imap-mail-checker-server) and a [mail extension frontend](https://github.com/MadIceTea/imap-mail-checker-cx) for checking any IMAP connected inbox's new messages and notifying upon their arrival. (Alex does not use GMail for his personal mail, so he finds most extensions to be deficient in this ability.)
+* An idea Alex has had: "What would a Real "AI" Television Commercial look like?" via the _Inception v3_ Dataset
 
 His previous projects include:
 
@@ -28,7 +27,6 @@ His previous projects include:
 
 and contributions to:
 * [QRM](https://github.com/MadIceTea/qrm2), to add Japanese and Netherland bandplan documents
-* [Minibot](https://github.com/0x5c/minibot/pull/22), a contribution in-progress for adding a joke 'meow' command
 
 Learn more about his activities on [LinkedIn](https://linkedin.com/in/mrlogicalalex), connect on [Reddit](https://reddit.com/u/madicetea), and contribute on [GitHub](https://github.com/madicetea).
 
