@@ -1,13 +1,13 @@
 <footer class="footer">
   <section class="container">
     {{ with .Site.Params.footercontent | safeHTML }}
-      {{.}} {{ end }}
+      {{.}} - {{ now.Year }} {{ end }}
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
     ·
     {{ end }}
-    {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    {{ i18n }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>
     {{ if (and .Site.Params.commit .GitInfo) }}
       [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
     {{ end }}
