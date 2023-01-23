@@ -9,6 +9,8 @@ Greetings! Welcome to the source code repositiory for my website.
     </a>
 </p>
                                                                                                        
+Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d84dcaba-d0be-4855-80ae-104b2bb87865/deploy-status)](https://app.netlify.com/sites/alexpersonal-dev/deploys)
+
 Development Site URL: https://alexpersonal-dev.netlify.com
 
 The site was built from my University campus in Tokyo as a part of a self-driven project.
@@ -19,7 +21,9 @@ As with most of my hack projects, I choose something that would be of use to my 
 
 (2nd writing) The webpage had undergone some changes in the backend to implement Forestry CMS blog integration (after a failed attempt at Netlify's native CMS)*. Other changes included hardening the website headers and integrating some custom version upgrades to third-party libraries to resolve GitHub ack'd CVE security notifications.
 
-*I recognize that recent changes from the upstream template have made all headless CMS integartions (including Forestry, NetlifyCMS, DatoCMS or Contentful) compatible with this theme in a Netlify site.
+*It is quite possible that recent changes from the upstream template have made all headless CMS integartions (including Forestry, NetlifyCMS, DatoCMS or Contentful) compatible with this theme in a Netlify site.
+
+(3rd Writing) After a couple of years, I ran a mass-update on the entire site and its content to account for development work from the template, security updates (both in the codebase and on the Infra side), and I now have a project to add in routing for a few more domains and edge functionality.
 
 As the Hugo site builder and the 'coder' theme used are also openly licensed, please feel free to clone this git repository for your own use as well!
 
