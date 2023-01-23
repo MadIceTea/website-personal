@@ -1,7 +1,10 @@
 <footer class="footer">
   <section class="container">
     {{ with .Site.Params.footercontent | safeHTML }}
-      {{.}} {{ now.Year }} {{ end }}
+      {{.}} 
+     {{ end }}
+    {{ i18n "2018 - "}} {{ now.Year }}
+    {{ end }}
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
