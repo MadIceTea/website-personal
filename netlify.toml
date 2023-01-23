@@ -19,8 +19,8 @@
     Access-Control-Allow-Origin = "*"
 
 [[redirects]]
-  from = "http://alexpersonal-dev.netlify.com/*"
-  to = "https://alexpersonal-dev.netlify.com/:splat"
+  from = "http://madicetea.me/*"
+  to = "https://madicetea.me/:splat"
   status = 301
   force = true
 
