@@ -9,7 +9,7 @@ Greetings! Welcome to the source code repositiory for my website.
     </a>
 </p>
                                                                                                        
-Development Site URL: https://alexpersonal-dev.netlify.com
+Site URL: https://madicetea.me
 
 The site was built from my University campus in Tokyo as a part of a self-driven project.
 
