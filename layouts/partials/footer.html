@@ -2,8 +2,7 @@
   <section class="container">
     {{ with .Site.Params.footercontent | safeHTML }}
       {{.}} 
-     {{ end }}
-    {{ i18n "2018 - "}} {{ now.Year }}
+    2018 - {{ now.Year }}
     {{ end }}
     ·
     {{ if (and .Site.Params.license) }}
