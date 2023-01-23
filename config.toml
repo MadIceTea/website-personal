@@ -11,38 +11,39 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 	
 [params]
-	avatarurl = "images/avatar.jpg"	
+	colorScheme = "dark"
+    hideColorSchemeToggle = false
+    avatarurl = "images/avatar.jpg"	
 	favicon_32 = "images/favicon-32x32.png"
 	favicon_16 = "images/favicon-16x16.png"
-	
+
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/madicetea/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 2
     url = "https://www.linkedin.com/in/mrlogicalalex/"
 [[params.social]]
     name = "Email"
-    icon = "fas fa-envelope-open fa-2x"
+    icon = "fa fa-envelope-open fa-2x"
     weight = 3
-    url = "mailto:hello@madicetea.me"
+    url = "mailto:alex@madicetea.me"
 [[params.social]]
     name = "Resume"
-    icon = "far fa-file-pdf fa-2x"
+    icon = "fa fa-file-pdf-o fa-2x"
     weight = 4
-    url = "https://madicetea.me/resume/WIEGMAN_Alexander_Resume.pdf"
+    url = "https://madicetea.me/resume/Wiegman_Alexander_2023.01_Resume.pdf"
 [[params.social]]
     name = "Location"
-    icon = "fas fa-map-marker-alt fa-2x"
+    icon = "fa fa-map-marker fa-2x"
     weight = 5
     url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
-	
-	
+
 [languages]
     [languages.en]
         languagename = "English"
@@ -50,11 +51,11 @@ pygmentscodefencesguesssyntax = true
 
         [languages.en.params]
 		author = "Alex W. (T.)"
-		info = "Cybersecurity Analyst with curiosity in Networks, Web, and Software"
+		info = "Security Engineer with experiences in Signals and Data Analysis, Technical Governance and Compliance, and Security Automation"
 		description = "Alex's personal website"
-		keywords = "personal, resume, webdev, network, opsec, deveops, neural networks, Python, TensorFlow"
+		keywords = "personal, resume, webdev, network, opsec, deveops, solutions architecture, securityGRC, neural networks, programming, architecture"
 
-		footercontent = "Copyright MadIcetea. 2018-"
+		footercontent = "Copyright MadIcetea."
 
 		hidecredits = true
 		hidecopyright = true
@@ -85,10 +86,10 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.params]
 			author = "谷口 アレックス"
-			info = "東京大学を卒業しました。現在はサイバーセキュリティ・アナリストの仕事についています。"
+			info = "サイバーセキュリティ開発者。人の使う情報セキュリティを作っています。"
 			description = "アレックスのホームページ"
-			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, 深層ネットワーク、テンサーフロー"
-			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。 2018-。"
+			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
+			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。"
 
 			hidecredits = true
 			hidecopyright = true

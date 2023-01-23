@@ -1,3 +1,8 @@
 demo/
 .hugo/*
 !.hugo/version
+.idea
+exampleSite/public/
+exampleSite/resources/
+*.lock
+public
