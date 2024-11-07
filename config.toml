@@ -86,7 +86,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.params]
 			author = "谷口 アレックス"
-			info = "サイバーセキュリティ開発者。人のためになる情報セキュリティを作成しております。"
+			info = "サイバーセキュリティ開発者。人のためとなる情報管理に励くんでおります。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
 			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載などの著作権侵害は禁じる。"
