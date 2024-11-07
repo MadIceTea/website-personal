@@ -40,9 +40,9 @@ pygmentscodefencesguesssyntax = true
     url = "https://madicetea.me/resume/Wiegman_Alexander_Resume.pdf"
 [[params.social]]
     name = "Location"
-    icon = "fa fa-map-marker fa-2x"
+    icon = "fa fa-phone fa-2x"
     weight = 5
-    url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
+    url = "tel:+12093535377"	
 
 [languages]
     [languages.en]
