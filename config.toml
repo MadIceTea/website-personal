@@ -13,9 +13,11 @@ pygmentscodefencesguesssyntax = true
 [params]
 	colorScheme = "dark"
     hideColorSchemeToggle = false
-    avatarurl = "images/avatar.jpg"	
+    avatarurl = "images/avatar.jpg"
+    faviconSVG = "images/favicon.svg"
 	favicon_32 = "images/favicon-32x32.png"
 	favicon_16 = "images/favicon-16x16.png"
+    touchicon = "images/apple-touch-icon.png"
 
 # Social links
 [[params.social]]
@@ -37,12 +39,12 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "fa fa-file-pdf-o fa-2x"
     weight = 4
-    url = "https://alexpersonal-dev.netlify.app/resume/Wiegman_Alexander_2023.01_Resume.pdf"
+    url = "/resume/Wiegman_Alexander_Resume.pdf"
 [[params.social]]
     name = "Location"
-    icon = "fa fa-map-marker fa-2x"
+    icon = "fa fa-phone fa-2x"
     weight = 5
-    url = "https://www.google.com/maps/place/Modesto,+CA/@37.6532641,-121.0586931,12z?hl=en"	
+    url = "tel:+12093535377"	
 
 [languages]
     [languages.en]
@@ -51,7 +53,7 @@ pygmentscodefencesguesssyntax = true
 
         [languages.en.params]
 		author = "Alex W. (T.)"
-		info = "Security Engineer with experiences in Signals and Data Analysis, Technical Governance and Compliance, and Security Automation"
+		info = "Security Engineer with experiences in Data Analytics, Technical Governance and Compliance, and Security Automation"
 		description = "Alex's personal website"
 		keywords = "personal, resume, webdev, network, opsec, deveops, solutions architecture, securityGRC, neural networks, programming, architecture"
 
@@ -86,10 +88,10 @@ pygmentscodefencesguesssyntax = true
 
         [languages.ja.params]
 			author = "谷口 アレックス"
-			info = "サイバーセキュリティ開発者。人の使う情報セキュリティを作っています。"
+			info = "サイバーセキュリティ開発者。人のためとなる情報管理に励くんでおります。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
-			footercontent = "このサイトについては「MadIceTea」から許可のない、無断転載を著作権侵害上で禁じる。"
+			footercontent = "「MadIceTea」さんから許可を得ていない無断転載などの著作権侵害を固く禁じる。"
 
 			hidecredits = true
 			hidecopyright = true

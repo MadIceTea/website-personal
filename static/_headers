@@ -1,0 +1,39 @@
+# Allow CSS Scripts on Cross-Domain
+/css/*
+  Access-Control-Allow-Origin: *
+
+# Allow CSS Scripts on Cross-Domain
+/fonts/*
+  Access-Control-Allow-Origin: *
+
+# Allow CSS Scripts on Cross-Domain
+/images/*
+  Access-Control-Allow-Origin: *
+
+# Allow JS Scripts on Cross-Domain
+/js/*
+  Access-Control-Allow-Origin: *
+
+# Allows Netlify-run GitHub OAuth Login to Sveltia CMS
+/admin/*
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+
+# Stop Render in iframes on other websites
+/*
+  X-Frame-Options: DENY
+
+# Force cache expiry
+/*
+  Cache-Control: public, max-age=31536000
+
+# Do not allow non-executable MIME to mutate to executable
+/*
+  X-Content-Type-Options: nosniff
+
+# Allows resuming of page load or file download
+/*
+  Accept-Ranges: bytes
+
+# No HTTP (non-secure) requests for resources allowed.
+/*
+  Upgrade-Insecure-Requests: block-all-mixed-content

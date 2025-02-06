@@ -8,7 +8,7 @@ Greetings! Welcome to the source code repositiory for my website.
       <img src="https://img.shields.io/github/license/luizdepra/hugo-coder.svg" alt="MIT License Badge">
     </a>
 </p>
-                                                                                                       
+
 Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d84dcaba-d0be-4855-80ae-104b2bb87865/deploy-status)](https://app.netlify.com/sites/alexpersonal-dev/deploys)
 
 Development Site URL: https://alexpersonal-dev.netlify.com
