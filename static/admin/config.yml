@@ -10,60 +10,43 @@ public_folder: "images"
 display_url: https://madicetea.me
 logo_url: https://madicetea.me/images/favicon.svg
 
-i18n:
-  structure: multiple_folders
-  locales: [en, ja]
-  default_locale: en
-
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog Posts EN" # Used in the UI, ie.: "New Post"
-    i18n:
-      structure: multiple_files
-      locales: [en]
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "ja" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "JA Pages" # Used in the UI, ie.: "New Post"
-    i18n:
-      structure: multiple_files
-      locales: [ja]
     folder: "content/ja" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "about" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "About Alex" # Used in the UI, ie.: "New Post"
-    i18n:
-      structure: single_file
-      locales: [en]
     files: 
         file: "content/about.md" # The path to the folder where the documents are stored
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string", i18n: true}
-          - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "contact" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Contact Me" # Used in the UI, ie.: "New Post"
-    i18n:
-      structure: single_file
-      locales: [en]
     files: 
         file: "content/contact.md" # The path to the folder where the documents are stored
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string", i18n: true}
-          - {label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
