@@ -15,9 +15,29 @@
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
+  
+[[headers]]
+  for = "/*"
+  [headers.values]
     X-XSS-Protection = "1; mode=block"
+  
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
     Access-Control-Allow-Origin = "*"
-
+  
+  
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+  
+  
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+  
 [[redirects]]
   from = "http://madicetea.me/*"
   to = "https://madicetea.me/:splat"
