@@ -10,6 +10,10 @@
 /images/*
   Access-Control-Allow-Origin: *
 
+# Allow JS Scripts on Cross-Domain
+/js/*
+  Access-Control-Allow-Origin: *
+
 # Stop Render in iframes on other websites
 /*
   X-Frame-Options: DENY
