@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: <% GITHUB_REPOSITORY %> # Gulp will replace this with your GitHub repository
   branch: development
 
