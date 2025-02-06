@@ -2,12 +2,18 @@ backend:
   name: github
   repo: madicetea/website-personal
   branch: development
+  use_graphql: true
 
 publish_mode: editorial_workflow  
 media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "images"
 display_url: https://madicetea.me
 logo_url: https://madicetea.me/images/favicon.svg
+
+i18n:
+  structure: multiple_folders
+  locales: [en, ja, si]
+  default_locale: en
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
