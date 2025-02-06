@@ -10,7 +10,7 @@ public_folder: "images"
 display_url: https://madicetea.me
 logo_url: https://madicetea.me/images/favicon.svg
 
-collections: # A list of directory collections the CMS should be able to edit
+collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog Posts EN" # Used in the UI, ie.: "New Post"
     folder: "content/posts" # The path to the folder where the documents are stored
@@ -31,9 +31,8 @@ collections: # A list of directory collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-collections: # A list of single-file collections the CMS should be able to edit
-  - label: "Pages"
-    name: "content"
+  - name: "content"
+    label: "Pages"
     files:
       - label: "About Page" # Used in the UI, ie.: "New Post"
         name: "about" # Used in routes, ie.: /admin/collections/:slug/edit
