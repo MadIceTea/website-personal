@@ -10,50 +10,38 @@ public_folder: "images"
 display_url: https://madicetea.me
 logo_url: https://madicetea.me/images/favicon.svg
 
-i18n:
-  structure: multiple_folders
-  locales: [en, ja]
-  default_locale: en
-
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog Posts EN" # Used in the UI, ie.: "New Post"
     folder: "content/posts" # The path to the folder where the documents are stored
-    i18n: true
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", il8n: true}
-      - {label: "Publish Date", name: "date", widget: "datetime", il8n: duplicate}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "ja" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "JA Pages" # Used in the UI, ie.: "New Post"
     folder: "content/ja" # The path to the folder where the documents are stored
-    i18n: true
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", il8n: true}
-      - {label: "Publish Date", name: "date", widget: "datetime", required: false, il8n: duplicate}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "content"
     label: "Pages"
-    i18n:
-      structure: single_file
-      locales: [en, ja]
     files:
       - label: "About Page" # Used in the UI, ie.: "New Post"
         name: "about" # Used in routes, ie.: /admin/collections/:slug/edit
         file: "content/about.md"
-        i18n: true
         fields:
-          - {label: "Title", name: "title", widget: "string", il8n: true}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact Me" # Used in the UI, ie.: "New Post"
         name: "contact" # Used in routes, ie.: /admin/collections/:slug/edit
         file: "content/contact.md"
-        i18n: true
         fields:
-          - {label: "Title", name: "title", widget: "string", il8n: true}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
