@@ -1,9 +1,9 @@
 demo/
 .hugo/*
-!.hugo/version
 .idea
+.DS_Store
+**/themes/
 exampleSite/public/
 exampleSite/resources/
 *.lock
 public
-.DS_Store
