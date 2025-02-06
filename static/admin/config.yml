@@ -27,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -39,7 +39,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "content/about.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact Me" # Used in the UI, ie.: "New Post"
@@ -47,6 +46,5 @@ collections: # A list of collections the CMS should be able to edit
         file: "content/contact.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
