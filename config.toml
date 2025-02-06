@@ -1,4 +1,4 @@
-baseurl = "https://alexpersonal-dev.netlify.app"
+baseurl = "https://madicetea.me"
 title = "Welcome to Alex's website"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -9,14 +9,14 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-	
+    
 [params]
-	colorScheme = "dark"
+    colorScheme = "dark"
     hideColorSchemeToggle = false
     avatarurl = "images/avatar.jpg"
     faviconSVG = "images/favicon.svg"
-	favicon_32 = "images/favicon-32x32.png"
-	favicon_16 = "images/favicon-16x16.png"
+    favicon_32 = "images/favicon-32x32.png"
+    favicon_16 = "images/favicon-16x16.png"
     touchicon = "images/apple-touch-icon.png"
 
 # Social links
@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
     name = "Location"
     icon = "fa fa-phone fa-2x"
     weight = 5
-    url = "tel:+12093535377"	
+    url = "tel:+12093535377"    
 
 [languages]
     [languages.en]
@@ -52,18 +52,18 @@ pygmentscodefencesguesssyntax = true
         title = "Alex's Website"
 
         [languages.en.params]
-		author = "Alex W. (T.)"
-		info = "Security Engineer with experiences in Data Analytics, Technical Governance and Compliance, and Security Automation"
-		description = "Alex's personal website"
-		keywords = "personal, resume, webdev, network, opsec, deveops, solutions architecture, securityGRC, neural networks, programming, architecture"
+        author = "Alex W. (T.)"
+        info = "Security Engineer with experiences in Data Analytics, Technical Governance and Compliance, and Security Automation"
+        description = "Alex's personal website"
+        keywords = "personal, resume, webdev, network, opsec, deveops, solutions architecture, securityGRC, neural networks, programming, architecture"
 
-		footercontent = "Copyright MadIcetea."
+        footercontent = "Copyright MadIcetea."
 
-		hidecredits = true
-		hidecopyright = true
+        hidecredits = true
+        hidecopyright = true
 
-		rtl = false
-		math = false
+        rtl = false
+        math = false
 
         [languages.en.menu]
 
@@ -76,7 +76,7 @@ pygmentscodefencesguesssyntax = true
         name = "Contact Me"
         weight = 2.0
         url = "/contact/"
-		
+        
         [[languages.en.menu.main]]
         name = "Blog"
         weight = 3.0
@@ -87,17 +87,17 @@ pygmentscodefencesguesssyntax = true
         title = "アレックスのホームページ"
 
         [languages.ja.params]
-			author = "谷口 アレックス"
-			info = "サイバーセキュリティ開発者。人のためとなる情報管理に励くんでおります。"
-			description = "アレックスのホームページ"
-			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
-			footercontent = "「MadIceTea」さんから許可を得ていない無断転載などの著作権侵害を固く禁じる。"
+            author = "谷口 アレックス"
+            info = "サイバーセキュリティ開発者。人のためとなる情報管理に励くんでおります。"
+            description = "アレックスのホームページ"
+            keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, プログラミング, 深層ネットワーク、テンサーフロー, システム構造"
+            footercontent = "「MadIceTea」さんから許可を得ていない無断転載などの著作権侵害を固く禁じる。"
 
-			hidecredits = true
-			hidecopyright = true
+            hidecredits = true
+            hidecopyright = true
 
-			rtl = false
-			math = false
+            rtl = false
+            math = false
 
         [languages.ja.menu]
 
