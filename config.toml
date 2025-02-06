@@ -39,7 +39,7 @@ pygmentscodefencesguesssyntax = true
     name = "Resume"
     icon = "fa fa-file-pdf-o fa-2x"
     weight = 4
-    url = "https://madicetea.me/resume/Wiegman_Alexander_Resume.pdf"
+    url = "/resume/Wiegman_Alexander_Resume.pdf"
 [[params.social]]
     name = "Location"
     icon = "fa fa-phone fa-2x"
