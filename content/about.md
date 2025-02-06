@@ -3,13 +3,9 @@ title: About Alex
 image: /images/avatar.jpg
 slug: about
 ---
-Alex is currently in between positions, and is looking for security engineering or solutions architecture positions for on-prem and cloud systems. He has previous experiences with data analyst and technical compliance roles, both of which have contributed to a wider understanding of the information security world.
+Alex enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpad computers, almost all music, and his family.
 
-He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, almost any music, and family.
-
-If he's not working on his day job or tinkering with one of his current projects (below), he often can be found reading law or studying for IT Certifications. (Or, simply resting!)
-
-Currently, efforts are being focused on the CISSP (it's finally time!), renewing his Azure System Administrator license, and the AWS Systems Administrator license exams.
+When he is not working  or tinkering with one of his current projects (below), he often can be found completing his master's homework, reading digital law, or simply watching slice-of-life anime, now that he has caught up on almost all the IT certifications he wants to obtain for a while (except the CISSP). 
 
 He also has a few projects which he holds an interest in (although progress is very slow):
 
@@ -33,8 +29,6 @@ Learn more about his activities on [LinkedIn](https://linkedin.com/in/mrlogicala
 
 ## Setup
 
-This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/).
+This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/). Additionally, [Sveltia content management system (CMS)](https://github.com/sveltia/sveltia-cms/) was installed onto the site, in order to facilitate the quicker editing and publication of existing and soon-to-be published web pages and blog entries. (Previously, [Forestry CMS](https://app.forestry.io) had assisted in this website's page and post creation.)
 
 The ['coder' theme](https://themes.gohugo.io/hugo-coder/) was used to make this website, and various members from the ['Engineering Students' Discord server](https://discord.gg/EngineeringStudents) helped debug some early issues. They have since contributed to some of the site design, header debugging, and resume reviews. Many thanks to them all.
-
-Currently, [Forestry CMS](https://app.forestry.io) is powering this website's page and post creation.
