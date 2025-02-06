@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - label: "About Page" # Used in the UI, ie.: "New Post"
         name: "about" # Used in routes, ie.: /admin/collections/:slug/edit
-        file: "site/content/about.md"
+        file: "content/about.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact Me" # Used in the UI, ie.: "New Post"
         name: "contact" # Used in routes, ie.: /admin/collections/:slug/edit
-        file: "site/content/contact.md"
+        file: "content/contact.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
