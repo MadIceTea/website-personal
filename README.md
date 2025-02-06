@@ -11,7 +11,7 @@ Greetings! Welcome to the source code repositiory for my website.
 
 Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d84dcaba-d0be-4855-80ae-104b2bb87865/deploy-status)](https://app.netlify.com/sites/alexpersonal-dev/deploys)
 
-Development Site URL: https://alexpersonal-dev.netlify.com
+Development Site URL: https://alexpersonal-dev.netlify.app
 
 The site was built from my University campus in Tokyo as a part of a self-driven project.
 
