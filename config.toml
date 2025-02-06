@@ -13,9 +13,11 @@ pygmentscodefencesguesssyntax = true
 [params]
 	colorScheme = "dark"
     hideColorSchemeToggle = false
-    avatarurl = "images/avatar.jpg"	
+    avatarurl = "images/avatar.jpg"
+    faviconSVG = "images/favicon.svg"
 	favicon_32 = "images/favicon-32x32.png"
 	favicon_16 = "images/favicon-16x16.png"
+    touchicon = "images/apple-touch-icon.png"
 
 # Social links
 [[params.social]]
