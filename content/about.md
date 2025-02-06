@@ -1,8 +1,8 @@
-+++
-slug = "about"
-title = "About Alex"
-
-+++
+---
+title: About Alex
+image: /images/avatar.jpg
+slug: about
+---
 Alex is currently in between positions, and is looking for security engineering or solutions architecture positions for on-prem and cloud systems. He has previous experiences with data analyst and technical compliance roles, both of which have contributed to a wider understanding of the information security world.
 
 He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, almost any music, and family.
@@ -13,20 +13,21 @@ Currently, efforts are being focused on the CISSP (it's finally time!), renewing
 
 He also has a few projects which he holds an interest in (although progress is very slow):
 
-* A [mail server backend](https://github.com/MadIceTea/imap-mail-checker-server) and a [mail extension frontend](https://github.com/MadIceTea/imap-mail-checker-cx) for checking any IMAP connected inbox's new messages and notifying upon their arrival. (Alex does not use GMail for his personal mail, so he finds most extensions to be deficient in this ability.)
-* An idea Alex has had: "What would a Real "AI" Television Commercial look like?" via the _Inception v3_ Dataset
+- A [mail server backend](https://github.com/MadIceTea/imap-mail-checker-server) and a [mail extension frontend](https://github.com/MadIceTea/imap-mail-checker-cx) for checking any IMAP connected inbox's new messages and notifying upon their arrival. (Alex does not use GMail for his personal mail, so he finds most extensions to be deficient in this ability.)
+- An idea Alex has had: "What would a Real "AI" Television Commercial look like?" via the _Inception v3_ Dataset
 
 His previous projects include:
 
-* [Thesis research: Using Machine Learning to Predict Risk of Wildfire Damage](https://github.com/MadIceTea/FUWRM)
-* [Land Image-Data Assessment: Tracking urban density via satellite imagery](https://github.com/madicetea/LIDA)
-* An unreleased SUICA/PASMO (stored-value mass-transit card) Android Application
-* Various assignments for a [Coursera series in Cybersecurity](https://www.coursera.org/specializations/cyber-security).
-* [A previous website and blog for the PEAK Student Council](https://github.com/PEAKStudentCouncil/website-prod)
-* [Website for the Global Faculty Development Group](http://www.gfd.c.u-tokyo.ac.jp/)
+- [Thesis research: Using Machine Learning to Predict Risk of Wildfire Damage](https://github.com/MadIceTea/FUWRM)
+- [Land Image-Data Assessment: Tracking urban density via satellite imagery](https://github.com/madicetea/LIDA)
+- An unreleased SUICA/PASMO (stored-value mass-transit card) Android Application
+- Various assignments for a [Coursera series in Cybersecurity](https://www.coursera.org/specializations/cyber-security).
+- [A previous website and blog for the PEAK Student Council](https://github.com/PEAKStudentCouncil/website-prod)
+- [Website for the Global Faculty Development Group](http://www.gfd.c.u-tokyo.ac.jp/)
 
 and contributions to:
-* [QRM](https://github.com/MadIceTea/qrm2), to add Japanese and Netherland bandplan documents
+
+- [QRM](https://github.com/MadIceTea/qrm2), to add Japanese and Netherland bandplan documents
 
 Learn more about his activities on [LinkedIn](https://linkedin.com/in/mrlogicalalex), connect on [Reddit](https://reddit.com/u/madicetea), and contribute on [GitHub](https://github.com/madicetea).
 
