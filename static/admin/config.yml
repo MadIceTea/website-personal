@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: <% GITHUB_REPOSITORY %> # Gulp will replace this with your GitHub repository
+  repo: madicetea/website-personal
   branch: development
 
 publish_mode: editorial_workflow  
