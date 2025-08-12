@@ -31,9 +31,19 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "mailto:alex@madicetea.com"
 [[params.social]]
+    name = "Discord"
+    icon = "fa-brands fa-discord fa-2x"
+    weight = 3
+    url = "https://discord.com/users/792555644417736704e"
+[[params.social]]
+    name = "Reddit"
+    icon = "fa-brands fa-reddit fa-2x"
+    weight = 4
+    url = "https://www.reddit.com/user/madicetea"
+[[params.social]]
     name = "Resume"
     icon = "fa fa-file-pdf-o fa-2x"
-    weight = 3
+    weight = 5
     url = "/resume/Alex_Resume.pdf"
 
 [languages]
