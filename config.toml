@@ -26,25 +26,15 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/madicetea/"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-linkedin fa-2x"
-    weight = 2
-    url = "https://www.linkedin.com/in/mrlogicalalex/"
-[[params.social]]
     name = "Email"
     icon = "fa fa-envelope-open fa-2x"
-    weight = 3
-    url = "mailto:alex@madicetea.me"
+    weight = 2
+    url = "mailto:alex@madicetea.com"
 [[params.social]]
     name = "Resume"
     icon = "fa fa-file-pdf-o fa-2x"
-    weight = 4
-    url = "/resume/Wiegman_Alexander_Resume.pdf"
-[[params.social]]
-    name = "Location"
-    icon = "fa fa-phone fa-2x"
-    weight = 5
-    url = "tel:+12093535377"	
+    weight = 3
+    url = "/resume/Alex_Resume.pdf"
 
 [languages]
     [languages.en]
