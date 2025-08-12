@@ -34,10 +34,10 @@ pygmentscodefencesguesssyntax = true
     name = "Discord"
     icon = "fa-brands fa-discord fa-2x"
     weight = 3
-    url = "https://discord.com/users/792555644417736704e"
+    url = "https://discord.com/users/792555644417736704"
 [[params.social]]
     name = "Reddit"
-    icon = "fa-brands fa-reddit fa-2x"
+    icon = "fa-brands fa-reddit-alien fa-2x"
     weight = 4
     url = "https://www.reddit.com/user/madicetea"
 [[params.social]]
