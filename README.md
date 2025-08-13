@@ -11,7 +11,11 @@ Greetings! Welcome to the source code repositiory for my website.
 
 Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a1565f2d-8f83-4c9d-ac86-c0f68660641b/deploy-status)](https://app.netlify.com/sites/madicetea/deploys)
 
-Site URL: https://madicetea.me
+Site URL: https://madicetea.com & https://madicetea.jp (since 2025) 
+
+[It was `madicetea.me` from 2018 - 2025. The `.me` domain was deactivated in 2026.]
+
+-----
 
 The site was built from my University campus in Tokyo as a part of a self-driven project.
 
