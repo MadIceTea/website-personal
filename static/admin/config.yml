@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: madicetea/website-personal
-  branch: development
+  branch: master
   use_graphql: true
 
 publish_mode: editorial_workflow  
