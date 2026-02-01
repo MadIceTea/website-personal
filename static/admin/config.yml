@@ -7,8 +7,8 @@ backend:
 publish_mode: editorial_workflow  
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
-display_url: https://madicetea.me
-logo_url: https://madicetea.me/images/favicon.svg
+display_url: https://madicetea.com
+logo_url: https://madicetea.com/images/favicon.svg
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit

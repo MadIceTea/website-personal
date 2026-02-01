@@ -44,4 +44,4 @@ CMSシステムは現在、[フォレストリー](https://app.forestry.io)を�
 ## 質問・問い合わせ
 
 質問やコメント、アイデアは全部大歓迎です。  
-[GitHub](https://github.com/madicetea/website-personal/issues/new)や[電子メール](mailto:alex+toiawase-web@madicetea.me)で連絡が取れます。お待ちしております。
+[GitHub](https://github.com/madicetea/website-personal/issues/new)や[電子メール](mailto:alex+toiawase-web@madicetea.jp)で連絡が取れます。お待ちしております。
