@@ -4,22 +4,22 @@
 
 [build.environment]
   HUGO_THEME = "repo"
-  HUGO_VERSION = "0.153.2"
+  HUGO_VERSION = "0.155.1"
 
 [context.deploy-preview]
   command = "hugo --themesDir=.. --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.153.2"
+  HUGO_VERSION = "0.155.1"
 
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.153.2"
+  HUGO_VERSION = "0.155.1"
 
 [context.production.environment]
   HUGO_ENABLEGITINFO = "true"
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.153.2"
+  HUGO_VERSION = "0.155.1"
 
 [[headers]]
   for = "/*"
