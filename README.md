@@ -9,11 +9,9 @@ Greetings! Welcome to the source code repositiory for my website.
     </a>
 </p>
 
-Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a1565f2d-8f83-4c9d-ac86-c0f68660641b/deploy-status)](https://app.netlify.com/sites/madicetea/deploys)
+Netlify Deploy Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d84dcaba-d0be-4855-80ae-104b2bb87865/deploy-status)](https://app.netlify.com/projects/alexpersonal-dev/deploys)
 
-Site URL: https://madicetea.com & https://madicetea.jp (since 2025) 
-
-[It was `madicetea.me` from 2018 - 2025. The `.me` domain was deactivated in 2026.]
+Site URL: https://alexpersonal-dev.netlify.app (since 2018) 
 
 -----
 
