@@ -4,61 +4,19 @@
 
 [build.environment]
   HUGO_THEME = "repo"
-  HUGO_VERSION = "0.148.2"
+  HUGO_VERSION = "0.153.2"
 
 [context.deploy-preview]
   command = "hugo --themesDir=.. --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.148.2"
+  HUGO_VERSION = "0.153.2"
 
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.148.2"
+  HUGO_VERSION = "0.153.2"
 
 [context.production.environment]
   HUGO_ENABLEGITINFO = "true"
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.148.2"
-  
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-
-[[redirects]]
- from = "http://madicetea.com/*"
- to = "https://www.madicetea.com/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "https://madicetea.com/*"
- to = "https://www.madicetea.com/:splat"
- status = 301
- force = true
-
-[[redirects]]
- from = "http://madicetea.jp/*"
- to = "https://www.madicetea.jp/:splat"
- status = 301
- force = true
-
-[[redirects]]
- from = "https://madicetea.jp/*"
- to = "https://www.madicetea.jp/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "http://www.madicetea.si/*"
- to = "https://www.madicetea.si/:splat"
- status = 301
- force = true
- 
-[[redirects]]
- from = "https://www.madicetea.si/*"
- to = "https://www.madicetea.si/:splat"
- status = 301
- force = true
+  HUGO_VERSION = "0.153.2"
